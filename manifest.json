@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Color Inverter",
+    "name": "Duskify",
     "version": "1.0",
     "description": "Invert colors of any webpage. 👁️‍🗨️",
     "permissions": [
@@ -10,17 +10,17 @@
     "action": {
         "default_popup": "popup.html",
         "default_icon": {
-            "16": "images/im1.webp",
-            "48": "images/im1.webp",
-            "128": "images/im1.webp"
+            "16": "images/moon.png",
+            "48": "images/moon.png",
+            "128": "images/moon.png"
         }
     },
     "background": {
         "service_worker": "popup.js"
     },
     "icons": {
-        "16": "images/im1.webp",
-        "48": "images/im1.webp",
-        "128": "images/im1.webp"
+        "16": "images/moon.png",
+        "48": "images/moon.png",
+        "128": "images/moon.png"
     }
 }
