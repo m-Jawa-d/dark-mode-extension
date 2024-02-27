@@ -1,6 +1,6 @@
 # Duskify
 
-Duskify is a browser extension designed to enable dark mode and adjust brightness on websites, specifically targeted for API documentation pages that may not support dark mode natively.
+Duskify is a browser extension designed to enable dark mode, specifically targeted for API documentation pages that may not support dark mode natively.
 
 ## Installation
 
