@@ -46,7 +46,3 @@ If you encounter any issues or have any questions, please feel free to [open an 
 ## Star the Project
 
 If you find this project useful, please consider giving it a star on GitHub. It helps to show your support and encourages further development.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
