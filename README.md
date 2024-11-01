@@ -41,7 +41,7 @@ Your contributions are greatly appreciated!
 
 ## Support
 
-If you encounter any issues or have any questions, please feel free to [open an issue](https://github.com/yourusername/duskify/issues) on GitHub.
+If you encounter any issues or have any questions, please feel free to [open an issue](https://github.com/m-Jawa-d/dark-mode-extension/issues) on GitHub.
 
 ## Star the Project
 
